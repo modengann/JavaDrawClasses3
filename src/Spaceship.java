@@ -5,7 +5,7 @@
  *      *has damage
  *      *has speed
  *      *can move
- *  -write makeBomb method with following specifications:
+ *  -write makeBomb method in Spaceship class with following specifications:
  *      *creates Bomb object at center of ship
  *      *returns Bomb object
  * 
